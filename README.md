@@ -4,7 +4,13 @@
 [![rank](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/IntBoat/mf-u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/rank.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
 [![reward](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/IntBoat/mf-u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/reward.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
 
-One emoji for my dream vacation, written to /output/entry.txt by a small Python program. Entered in make.fun's One Emoji, One Dream Vacation bounty.
+One emoji for one dream vacation — no words, no itinerary, just the island. This entry says the whole trip in a single picture.
+
+Competition: https://make.fun/api/competitions/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/requirements
+
+## Entry
+
+`🏝️`
 
 ## Run it
 
